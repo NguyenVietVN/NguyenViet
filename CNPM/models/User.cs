@@ -8,5 +8,6 @@ namespace CNPM.models
 {
     internal class User
     {
+        public int Email { get; set; }
     }
 }
